@@ -30,8 +30,8 @@ The formula we use is:
 ![equation](https://latex.codecogs.com/gif.latex?%5Cfrac%7Balgorithm%7D%7Bcomputer%7D)
 
 In this code we can calculate the execution time of two algorithms:
-- Insertion Sort
-- Intercalation Sort
+- Insertion Sort: complexity = ![equation](https://latex.codecogs.com/gif.latex?2n%5E2)
+- Intercalation Sort: complexity = ![equation](https://latex.codecogs.com/gif.latex?nlog%28n%29)
 
 ---
 Made with ♥ by Letícia Aragão :wave: [Get in touch!](https://www.linkedin.com/in/leticiaaragao/)
