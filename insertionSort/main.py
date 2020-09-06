@@ -1,6 +1,6 @@
 
 def insertionSort(array):
-    # loop through uunsorted elements, considering first element sorted
+    # loop through unsorted elements, considering first element sorted
     for i in range(1, len(array)):
         # select first unsorted element
         elementToSort = array[i]
