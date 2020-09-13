@@ -16,7 +16,7 @@ To run the code
 git clone https://github.com/Leticia07/algorithm-analysis.git
 
 # Go into the directory
-cd complexityCalculation
+cd executionTimeCalculation
 
 # Run the main file
 python main.py
@@ -51,6 +51,25 @@ python main.py
 Brief 
 
 This algorithm sorts an array as an element is inserted. We start from the second position of an array (position 1) and then we go checking if the new element is smaller than the other so we maintain our array sorted. As we confirm if the inserted element is smaller than the element on the left, we move this element to the right by one.
+
+## Bubble Sort
+
+To run the code
+
+```bash
+# Clone this repository, if you haven't done it
+git clone https://github.com/Leticia07/algorithm-analysis.git
+
+# Go into the directory
+cd bubbleSort
+
+# Run the main file
+python main.py
+```
+
+Brief 
+
+This algorithm sorts an array in a descending or ascending way. If we're trying to sort descending the current position is compared to the next position, if the current position is bigger than the next position the elements are swapped. Otherwise, the elements aren't swapped and it goes to the next pair. If we're trying to sort ascending the only thing we change is checking if current position is smaller than the next position.
 
 ---
 Made with ♥ by Letícia Aragão :wave: [Get in touch!](https://www.linkedin.com/in/leticiaaragao/)
